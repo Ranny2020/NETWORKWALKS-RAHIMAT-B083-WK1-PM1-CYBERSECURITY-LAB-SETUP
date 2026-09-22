@@ -48,3 +48,11 @@ I went back to the **Devices** section in VirtualBox to check the configuration 
 I also checked the **Acceleration** settings to ensure that the virtualization features were properly configured and functioning correctly. Everything was in order.
 Finally, I checked the **Shared Folder** settings to verify the folder-sharing configuration between my Windows host system and the Kali Linux virtual machine. After confirming the settings, I was with the lab setup.
 
+
+
+# During Week 2 of my Cybersecurity & Ethical Hacking internship,
+
+I completed practical activities covering footprinting, reconnaissance and network scanning.In the footprinting activity, I used six Kali Linux tools to collect information about the target domain. I learned how WHOIS can provide domain information, WhatWeb can identify web technologies, Nslookup can resolve domain names, Curl can inspect HTTP headers, Wafw00f can identify a WAF, and DNSRecon can provide additional DNS information.In the network scanning activity, I used Zenmap to identify my local network configuration and discover active hosts. I also collected IP and MAC address information and created a network topology.
+
+The exercises showed me that information gathering is an important part of cybersecurity. Even before attempting to exploit a system, a security professional can learn a significant amount about an environment by carefully analyzing publicly available information and network responses.I also learned that technical findings should be documented clearly. A good cybersecurity report should explain what was performed, what was discovered, what the observation means, what risk it may create, and what can be done to reduce that risk.
+Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. 
