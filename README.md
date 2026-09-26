@@ -56,3 +56,17 @@ I completed practical activities covering footprinting, reconnaissance and netwo
 
 The exercises showed me that information gathering is an important part of cybersecurity. Even before attempting to exploit a system, a security professional can learn a significant amount about an environment by carefully analyzing publicly available information and network responses.I also learned that technical findings should be documented clearly. A good cybersecurity report should explain what was performed, what was discovered, what the observation means, what risk it may create, and what can be done to reduce that risk.
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. 
+
+
+# Week 3 Pasword Cracking With JTR / Networkwalks tools
+
+A part of my cyber security practical training with networkwalks, i worked on a hands-on exercise focused on understanding how password-protected files can be tested.
+
+    for the project, i :
+1. downloaded and installed John The Ripper (JTR)
+2. prepared a password-protected PDF for the lab
+3. used the networkwalks Hash calculator to generate the PDF hash
+4. Copied the hash into the password cracking tool
+5. successgfully recovered the password.
+
+This practical helped me better understand hash values, password security, and password cracking techniques.
