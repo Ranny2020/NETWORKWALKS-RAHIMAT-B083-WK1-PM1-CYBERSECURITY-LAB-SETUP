@@ -70,3 +70,79 @@ A part of my cyber security practical training with networkwalks, i worked on a 
 5. successgfully recovered the password.
 
 This practical helped me better understand hash values, password security, and password cracking techniques.
+
+# week 4 penetration testing
+# NetworkWalks – Week 4 Project
+
+## Website Reconnaissance, Password Cracking, and File Analysis
+
+### Project Overview
+
+This project was carried out as part of the NetworkWalks cybersecurity training program (Batch B083). It focuses on website reconnaissance, password recovery, and the analysis of retrieved PDF files in an authorized lab environment.
+
+The project is divided into three major milestones:
+
+### Milestones
+
+**Milestone 1: Website Reconnaissance and File Retrieval**
+
+* Conduct reconnaissance on the target website.
+* Identify potential vulnerabilities and possible access points.
+* Locate and retrieve three confidential PDF patient lab reports within the lab environment.
+
+**Milestone 2: Password Cracking and File Decryption**
+
+* Use Hash Calculator to generate and analyze password hashes.
+* Apply Password Cracker to attempt password recovery.
+* Use John the Ripper (JTR) to perform password-cracking attempts.
+* Recover passwords and access the three encrypted PDF files.
+
+**Milestone 3: Analysis of Retrieved Files**
+
+* Open and examine the recovered PDF documents.
+* Analyze the contents of the retrieved files.
+* Document findings and consider the security implications of exposing confidential patient information.
+
+### Tools Used
+
+* **Kali Linux:** Operating system for conducting security assessments.
+* **Web Browser:** For accessing and examining the target website.
+* **Reconnaissance Tools:** For gathering information about the target website.
+* **Hash Calculator:** For generating and analyzing password hashes.
+* **Password Cracker:** For attempting to recover document passwords.
+* **John the Ripper (JTR):** Open-source password recovery tool.
+* **PDF Reader:** For viewing and analyzing recovered documents.
+
+### Activities Performed
+
+* Conducted website reconnaissance.
+* Identified and retrieved three PDF lab reports in the authorized lab environment.
+* Analyzed password hashes and performed password recovery attempts.
+* Worked on decrypting the retrieved PDF files.
+* Examined the recovered documents and documented relevant findings.
+
+### Key Learning Outcomes
+
+* Understanding website reconnaissance techniques.
+* Gaining practical experience with password recovery tools.
+* Learning how password hashes are analyzed and cracked.
+* Understanding PDF encryption and file security.
+* Recognizing the importance of protecting confidential information.
+* Improving practical cybersecurity assessment and documentation skills.
+
+### Recommendations
+
+* Strengthen website security through regular vulnerability assessments.
+* Enforce strong password policies and robust file encryption.
+* Implement access controls to protect confidential documents.
+* Monitor website activities for suspicious access attempts.
+* Conduct regular security audits to identify and address vulnerabilities.
+
+### Disclaimer
+
+This project was conducted for educational purposes as part of the NetworkWalks cybersecurity training program. All reconnaissance, password recovery, and file analysis activities should be performed only in authorized lab environments or on systems for which explicit permission has been granted.
+
+**Training:** NetworkWalks
+**Batch:** B083
+**Project:** Week 4 – Cybersecurity and Penetration Testing
+
